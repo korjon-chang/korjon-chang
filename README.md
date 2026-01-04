@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**korjon-chang/korjon-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Korjon, a software engineer based in Montreal.
 
-Here are some ideas to get you started:
+I enjoy working on meaningful projects in my spare time, especially ones that involve learning, problem-solving, and building things that last.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Workflow:** think → write → build
+
+### Tech I work with
+- **Languages:** Java, Python, TypeScript, JavaScript, C#, C++
+- **Backend:** Spring Boot, .NET, Node.js, Flask
+- **Frontend:** React, Tailwind CSS
+- **Cloud & DevOps:** AWS, Azure, Docker
+- **Databases:** MySQL, MongoDB, SQLite
+
+### Hobbies
+- Hiking  
+- Cycling  
+- Gym  
+- Photography  
