@@ -6,7 +6,7 @@ I enjoy working on meaningful projects in my spare time, especially ones that in
 
 **Workflow:** think → write → build
 
-### Tech I work with
+### Tech I've worked with
 - **Languages:** Java, Python, TypeScript, JavaScript, C#, C++
 - **Backend:** Spring Boot, .NET, Node.js, Flask
 - **Frontend:** React, Tailwind CSS
